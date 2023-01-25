@@ -14,13 +14,13 @@
 md 파일은 ***vscode*** 로도 열어볼 수 있으며, ***Markdown All in One*** 이라는 vscode 내 확장프로그램을 통해 Markdown 문법이 적용된 것을 확인 해보실 수 있습니다.
 
 ## 함수
-- **maro_generator(** *[마니또 리스트]* **)**
+- **maro_generator(** *마니또 리스트* **)**
 
         마로 리스트를 생성하여 반환합니다.
 
 
 
-- **create__manito_maro_md(** *[마니또 리스트]* **)**
+- **create__manito_maro_md(** *마니또 리스트* **)**
 
         maro_generator를 이용해 마로 리스트를 생성한 뒤, 
         아래 예시와 같은 Markdown 파일을 만듭니다.
